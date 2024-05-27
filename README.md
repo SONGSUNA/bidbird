@@ -47,6 +47,9 @@
   
 
 ### 참조   
+#### BidBird 주소
+https://bidbird.kro.kr/    
+    
 #### 시연영상   
 https://youtu.be/CzuwErhdwWw   
 
