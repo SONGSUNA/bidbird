@@ -1,7 +1,7 @@
 <div style="text-align: center;">
   <img src="https://i.imgur.com/D3lJNvg.png" style="margin: 0 auto;">
-</div>
-# TickeTi
+</div>   
+# BidBird
 
 ###### 그린 아카데미 Node.js & React 기반 풀스택 개발자 양성과정
 ##### Node.js & React Project[2024.04.25 - 2024.05.23]
